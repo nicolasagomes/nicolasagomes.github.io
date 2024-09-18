@@ -2,28 +2,31 @@
 
 ---
 
-### Projetos Santander
+### Projetos Power BI
 
 [IMAC Operation](/sample_page)
 <img src="images/pbi_imac.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dashboard Itau](/pdf/sample_presentation.pdf)
+<img src="images/pbi_itau.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dashboard Bradesco](http://example.com/)
+<img src="images/pbi_bradesco.png?raw=true"/>
 
 ---
 
-### Category Name 2
+[Dashboard Finanças]()
+<img src = "images/dashboard_financeiro.png?raw=true">
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Tecnologias
+
+- [Power BI](http://example.com/)
+- [SQL Server](http://example.com/)
+- [Python](http://example.com/)
+- [Office](http://example.com/)
+- [Desenvolvimento Web](http://example.com/)
 
 ---
 
