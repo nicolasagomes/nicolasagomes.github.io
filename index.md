@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Projetos Santander
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[IMAC Operation](/sample_page)
+<img src="images/pbi_imac.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
