@@ -1,7 +1,13 @@
+## Experiência Profissional
+
+[Cerb - Consulting]()
+<p>11 de abril de 2022 até 01 de janeiro 2023
+Responsável pela organização, controle dos acessos e profissionais de TI, da empresa, através de pastas físicas e lógicas, também utilizando planilhas no Excel. Controle de estoque de equipamentos de TI, embalagem e despacho.
+</p>
+
 ## Portfolio
 
 ---
-
 ### Projetos Power BI
 
 [IMAC Operation](/sample_page)
@@ -29,6 +35,7 @@
 - [Desenvolvimento Web](http://example.com/)
 
 ---
+
 
 
 
