@@ -1,9 +1,9 @@
 title: Nicolas Gomes # your name (or website title) here
 logo: "/images/nicolas.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Experiência em análise de dados, utilizando ferramentas como Power BI e SQL Server para coletar, analisar e visualizar dados.
-  Desenvolvimento de aplicações em Python com algumas bibliotecas e DAX.
-  Minhas habilidades em análise de dados e linguagens de programação permitem-me tomar melhores decisões e melhorar a eficiência dos processos de negócios.
+  Experiência em análise de dados, utilizando ferramentas como Power BI e SQL Server 
+  para coletar, analisar e visualizar dados.
+  <br><br>
   <a href="https://www.linkedin.com/in/nicolas-gomes-23747a224/">Meu Linkedn</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
