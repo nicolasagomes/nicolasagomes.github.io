@@ -16,6 +16,8 @@ Desenvolvimento de Dashboards em Power BI para análise de indicadores KPI.
 Análise de dados via SQL Server.
 Criação de apresentações exeutivas e participação de reuniões pontuais de alinhamento com clientes</p>
 
+---
+
 ## Educação
 
 <h5>SENAC - Análise e Desenvolvimento de Sistemas</h5>
@@ -27,6 +29,8 @@ Criação de apresentações exeutivas e participação de reuniões pontuais de
 Desenvolvimento de Dashboards em Power BI para análise de indicadores KPI.
 Análise de dados via SQL Server.
 Criação de apresentações exeutivas e participação de reuniões pontuais de alinhamento com clientes</p>
+
+---
 
 ## Portfolio
 
