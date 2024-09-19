@@ -23,8 +23,13 @@ Criação de apresentações exeutivas e participação de reuniões pontuais de
 <h5>SENAC - Análise e Desenvolvimento de Sistemas</h5>
 <p>01 de fevereiro de 2023 até 01 de julho 2025</p>
 
-<h5>UNIVERSIDADE SÃO JUDAS TADEU - ENGENHARIA DA COMPUTAÇÃO</h5>
+<h5>UNIVERSIDADE SÃO JUDAS TADEU - Engenharia da Computação</h5>
 <p>janeiro de 2022 até dezembro de 2022</p>
+
+<h2>Idiomas</h2>
+
+<h5>Wizard English by Pearson </h5>
+<p>Inglês Nivel Intermediário</p>
 
 <h2>Portfolio</h2>
 
@@ -54,6 +59,5 @@ Criação de apresentações exeutivas e participação de reuniões pontuais de
 <li>Desenvolvimento WEB</li>
 <li>Gestão Ágil</li>
 
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
