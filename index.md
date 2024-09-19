@@ -25,12 +25,6 @@ Criação de apresentações exeutivas e participação de reuniões pontuais de
 
 <h5>UNIVERSIDADE SÃO JUDAS TADEU - ENGENHARIA DA COMPUTAÇÃO</h5>
 <p>janeiro de 2022 até dezembro de 2022</p>
-<p>Responsável pela análise de qualidade de incidentes e requisições.
-Desenvolvimento de Dashboards em Power BI para análise de indicadores KPI.
-Análise de dados via SQL Server.
-Criação de apresentações exeutivas e participação de reuniões pontuais de alinhamento com clientes</p>
-
-
 
 <h2>Portfolio</h2>
 
@@ -53,12 +47,12 @@ Criação de apresentações exeutivas e participação de reuniões pontuais de
 
 <h2>Tecnologias</h2>
 
-<l>Power BI</l>
-<l>Python</l>
-<l>SQL Server</l>
-<l>Office</l>
-<l>Desenvolvimento WEB</l>
-<l>Gestão Ágil</l>
+<li>Power BI</li>
+<li>Python</li>
+<li>SQL Server</li>
+<li>Office</li>
+<li>Desenvolvimento WEB</li>
+<li>Gestão Ágil</li>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
