@@ -2,7 +2,7 @@
 
 ---
 
-## Experiência Profissional
+<h2>Experiência Profissional</h2>
 
 <h5>CERB CONSULTING - ESTAGIÁRIO</h5>
 <p>11 de abril de 2022 até 01 de janeiro 2023</p>
@@ -16,9 +16,9 @@ Desenvolvimento de Dashboards em Power BI para análise de indicadores KPI.
 Análise de dados via SQL Server.
 Criação de apresentações exeutivas e participação de reuniões pontuais de alinhamento com clientes</p>
 
----
 
-## Educação
+
+<h2>Educação</h2>
 
 <h5>SENAC - Análise e Desenvolvimento de Sistemas</h5>
 <p>01 de fevereiro de 2023 até 01 de julho 2025</p>
@@ -30,42 +30,35 @@ Desenvolvimento de Dashboards em Power BI para análise de indicadores KPI.
 Análise de dados via SQL Server.
 Criação de apresentações exeutivas e participação de reuniões pontuais de alinhamento com clientes</p>
 
----
 
-## Portfolio
 
----
-### Projetos Power BI
+<h2>Portfolio</h2>
 
-[IMAC Operation](/sample_page)
+
+<h3>Projetos Power BI</h3>
+
+<p>IMAC Operation</p>
 <img src="images/pbi_imac.jpg?raw=true"/>
 
----
-[Dashboard Itau](/pdf/sample_presentation.pdf)
+
+<p>Dashboard Cliente</p>
 <img src="images/pbi_itau.png?raw=true"/>
 
----
-[Dashboard Bradesco](http://example.com/)
+<p>Dashboard Cliente</p>
 <img src="images/pbi_bradesco.png?raw=true"/>
 
----
 
-[Dashboard Finanças]()
+<p>Dashboard Financeiro</p>
 <img src = "images/dashboard_financeiro.png?raw=true">
 
-### Tecnologias
+<h2>Tecnologias</h2>
 
-- [Power BI](http://example.com/)
-- [SQL Server](http://example.com/)
-- [Python](http://example.com/)
-- [Office](http://example.com/)
-- [Desenvolvimento Web](http://example.com/)
-
----
-
-
-
-
+<l>Power BI</l>
+<l>Python</l>
+<l>SQL Server</l>
+<l>Office</l>
+<l>Desenvolvimento WEB</l>
+<l>Gestão Ágil</l>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
