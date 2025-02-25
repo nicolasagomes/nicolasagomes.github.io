@@ -9,12 +9,16 @@
 <p>Responsável pela organização, controle dos acessos e profissionais de TI da empresa, através de pastas físicas e lógicas, também utilizando planilhas no Excel. Controle de estoque de equipamentos de TI, embalagem e despacho.
 <p>
 
-<h5>ASSISTENTE TI - TELEFONICA INFRAESTRUTURA E SEGURANCA (TIS)</h5>
-<p>03 de janeiro de 2023 até o momento</p>
+<h5>TELEFONICA INFRAESTRUTURA E SEGURANCA (TIS) - ASSISTENTE TI</h5>
+<p>03 de janeiro de 2023 até 14 de outubro de 2024</p>
 <p>Responsável pela análise de qualidade de incidentes e requisições.
 Desenvolvimento de Dashboards em Power BI para análise de indicadores KPI.
 Análise de dados via SQL Server.
 Criação de apresentações executivas e participação de reuniões pontuais de alinhamento com clientes</p>
+
+<h5>VIVO - ANALISTA DE BI JUNIOR</h5>
+<p>15 de outubro de 2024 até o momento</p>
+<p>Responsável pela controle dos relatórios e dashboards de uma Gerência Sr. Desenvolvimento de dashboards custumizados e automatizados, trazendo insights referentes a vendas e projetos, autmação de processos manuais visando ganho de tempo, utilizando ferramentas como Power BI, Power Query, DAX, Python e Excel</p>
 
 
 
@@ -49,6 +53,12 @@ Criação de apresentações executivas e participação de reuniões pontuais d
 
 <p>Dashboard Financeiro</p>
 <img src = "images/dashboard_financeiro.png?raw=true">
+
+<p>Dashboard Governança Projetos</p>
+<img src = "images/governança_projetos.png?raw=true">
+
+<p>Dashboard Projetos </p>
+<img src = "images/controle_projetos.png?raw=true">
 
 <h2>Tecnologias</h2>
 
