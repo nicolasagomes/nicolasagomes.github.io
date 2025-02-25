@@ -60,6 +60,10 @@ Criação de apresentações executivas e participação de reuniões pontuais d
 <p>Dashboard Projetos </p>
 <img src = "images/controle_projetos.png?raw=true">
 
+<p>Automação de Processo com Python</p>
+<br>
+<p>Automação de exportação de bases e atualização de relatórios de forma automatica via robô</p>
+
 <h2>Tecnologias</h2>
 
 <li>Power BI</li>
@@ -68,6 +72,7 @@ Criação de apresentações executivas e participação de reuniões pontuais d
 <li>Office</li>
 <li>Desenvolvimento WEB</li>
 <li>Gestão Ágil</li>
+<br>
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Page template forked from <a href="https://www.linkedin.com/in/nicolas-gomes-23747a224/">nicolas</a></p>
 <!-- Remove above link if you don't want to attibute -->
