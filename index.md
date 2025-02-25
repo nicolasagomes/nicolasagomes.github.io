@@ -18,7 +18,7 @@ Criação de apresentações executivas e participação de reuniões pontuais d
 
 <h5>VIVO - ANALISTA DE BI JUNIOR</h5>
 <p>15 de outubro de 2024 até o momento</p>
-<p>Responsável pela controle dos relatórios e dashboards de uma Gerência Sr. Desenvolvimento de dashboards custumizados e automatizados, trazendo insights referentes a vendas e projetos, autmação de processos manuais visando ganho de tempo, utilizando ferramentas como Power BI, Power Query, DAX, Python e Excel</p>
+<p>Responsável pela controle dos relatórios e dashboards de uma Gerência Sr. Desenvolvimento de dashboards custumizados e automatizados, trazendo insights referentes a vendas e projetos, automação de processos manuais visando ganho de tempo, utilizando ferramentas como Power BI, Power Query, DAX, Python e Excel</p>
 
 
 
